@@ -1,0 +1,33 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+table {
+    border: 5px solid black;
+
+}
+
+.one {
+    height: 100px;
+    width: 100px;
+
+    background-color: antiquewhite;
+}
+
+.two {
+    height: 100px;
+    width: 100px;
+
+    background-color: cadetblue;
+}
+
+.img1 {
+    width: 100px;
+    height: 100px;
+}
+
+.img2 {
+    width: 100px;
+    height: 100px;
+}
